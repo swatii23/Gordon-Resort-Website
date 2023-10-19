@@ -1,0 +1,143 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* font-family: sans-serif; */
+    width: 100%;
+    /* border: 1 px solid black;  */
+}
+.container-text, .sec-tittle {
+    font-family: 'Prata', serif;
+    font-weight: 100; 
+    color: #976107;
+    margin-top: 4.5%;
+    letter-spacing: 1.2px;
+    font-size: 1.5em;
+    text-align: center;
+}
+.text-p{
+   width: 70%;
+   border: black;
+   margin: auto;
+   margin-top: 2%;
+}
+
+.text-p p{
+        
+        color: #666;
+        letter-spacing: .2px;
+        font-weight: 300;
+  
+}
+.scroll {
+    display: flex;
+    /* justify-content: space-around; */
+    margin-top: 10%;
+    width: 25%;
+    margin: auto;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    gap: 20px; 
+}
+
+li {
+    /* Optional: You can style the list items individually if desired */
+}
+
+a {
+    text-decoration: none;
+    /* background-color: #976107;  */
+    font-size: 1rem;
+    font-weight: 600;
+    color: #db2128;
+    padding: 10px 20px;
+    border-radius: 5px; 
+    transition: background-color 0.3s ease;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    font-family: 'Roboto',sans-serif;
+}
+
+a:hover {
+   color: black;
+}
+
+.product-conatiner {
+    width: 90%;
+    margin: auto;
+    border: 1px solid blue;
+    margin-top: 5%;
+}
+ h2{
+    text-align: center;
+    color: #976107;
+    /* font-family: 'Roboto',sans-serif; */
+    font-size: 2.3rem;
+    font-weight: 100;
+   
+
+}
+.suite-product .product1 {
+    /* Your styles for product1 */
+    margin-top: 5%;
+    border: 1px solid black;
+    height: 400px;
+    width: 350px;
+  
+}
+
+/* Style for the product container */
+#product-conatiner {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 20px;
+    overflow-x: auto; /* Enable horizontal scrolling if needed */
+}
+
+/* Style for individual product cards */
+.product-card {
+    width: calc(33.33% - 20px); /* Adjust the width and margins as needed for a 3-card layout */
+    margin: 10px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  
+    border-radius: 5px;
+    text-align: center;
+    flex: 1; /* Equal-width columns within the container */
+    white-space: nowrap; /* Prevent card wrapping on smaller screens */
+}
+
+.product-card img {
+    max-width: 100%;
+    height: auto;
+}
+
+.product-card h3 {
+    font-size: 1.5em;
+    margin: 10px 0;
+}
+
+.product-card p {
+    font-size: 1em;
+    margin: 10px 0;
+    text-align: center;
+    /* border: 1px solid black; */
+    text-wrap: wrap;
+}
+
+.product-card p.price {
+    font-weight: bold;
+    color: #976107;
+}
+
+/* Add additional CSS rules for specific styling as needed */
