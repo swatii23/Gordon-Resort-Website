@@ -107,6 +107,15 @@ header ul li a {
 header ul li a:hover {
   color: #000;
 }
+.header >.container >.navbar >.login-button >#register-btn {
+
+background-color: white; color:#CC8C18;
+} 
+.header >.container >.navbar >.login-button >#register-btn :hover{
+
+  color: #000;
+  } 
+
 
 header .head_contact {
   position: relative;
