@@ -1,3 +1,6 @@
+*{
+    font-family: serif;
+}
 body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
@@ -12,6 +15,7 @@ body {
     padding: 30px;
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    background-image: url(./image/w3.jpg);
 }
 
 h1 {
@@ -26,10 +30,13 @@ h1 {
 label {
     font-weight: bold;
 }
+label[for="checkoutTime"],label[for="checkinTime"]{
+    font-size: small;
+}
 
 
 input[type="text"], input[type="email"], input[type="date"], input[type="number"], input[type="tel"], input[type="time"]{
-    width: 100%;
+    width: 80%;
     padding: 10px;
     margin-top: 5px;
     margin-bottom: 20px;
@@ -37,8 +44,9 @@ input[type="text"], input[type="email"], input[type="date"], input[type="number"
     border-radius: 5px;
 }
 
+
 input[type="submit"] {
-    background: #007BFF;
+    background: #885807;
     color: #fff;
     border: none;
     padding: 10px 20px;
@@ -47,9 +55,9 @@ input[type="submit"] {
 }
 
 input[type="submit"]:hover {
-    background: #0056b3;
+    background: #432d06;
 }
-#nameDiv, #addressDiv, #locationDiv, #contact, #date_time{
+#nameDiv, #addressDiv, #locationDiv, #contact, #date_time, #submitBtns{
     display: flex;
     justify-content: space-around;
     gap: 10%;
