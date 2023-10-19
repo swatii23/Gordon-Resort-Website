@@ -3,11 +3,86 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Le Merredean</title>
+    <title>Hotel Booking Form</title>
+    <link rel="stylesheet" href="booking.css">
 </head>
 <body>
-    <div>
-        <h3>Book Now</h3>
+    <div class="container">
+        <h1>Book Now!</h1>
+        <form action="#" method="post">
+            <div id="nameDiv">
+                <div class="form-group">
+                    <label for="firstName">First Name:</label>
+                    <input type="text" id="name" name="name" required>
+                </div>
+                <div class="form-group">
+                    <label for="lastName">Last Name:</label>
+                    <input type="text" id="name" name="name" required>
+                </div>
+            </div>
+            <div id="addressDiv">
+                <div class="form-group">
+                    <label for="address1">Address1:</label>
+                    <input type="text" id="address1" name="address1" required>
+                </div>
+                <div class="form-group">
+                    <label for="address2">Address2:</label>
+                    <input type="text" id="address2" name="address2">
+                </div>
+            </div>
+            <div id="locationDiv">
+                <div class="form-group">
+                    <label for="city">City:</label>
+                    <input type="text" id="city" name="city" required>
+                </div>
+                <div class="form-group">
+                    <label for="state">State:</label>
+                    <input type="text" id="state" name="state">
+                </div>
+                <div class="form-group">
+                    <label for="pincode">Pincode:</label>
+                    <input type="text" id="pincode" name="pincode">
+                </div>
+            </div>
+            <div id="contact">
+                <div class="form-group">
+                    <label for="email">Email:</label>
+                    <input type="email" id="email" name="email" required>
+                </div>
+                <div class="form-group">
+                    <label for="phoneNumber">Phone:</label>
+                    <input type="tel" id="phoneNo" name="phoneNo" required maxlength="10">
+                </div>
+            </div>
+            <div id="date_time">
+                <div class="form-group">
+                    <label for="checkin">Check-in Date:</label>
+                    <input type="date" id="checkin" name="checkin" required>
+                </div>
+                <div class="form-group">
+                    <label for="checkinTime">Check-in Time:</label>
+                    <input type="time" id="checkin" name="checkin" required>
+                </div>
+                <div class="form-group">
+                    <label for="checkout">Check-out Date:</label>
+                    <input type="date" id="checkout" name="checkout" required>
+                </div>
+                <div class="form-group">
+                    <label for="checkoutTime">Check-out Time:</label>
+                    <input type="time" id="checkoutTime" name="checkoutTime" required>
+                </div>
+            </div>
+            <p id="errorMessage"></p>
+            <div>
+                <div class="form-group">
+                    <label for="guests">Number of Guests:</label>
+                    <input type="number" id="guests" name="guests" required min="1" max="9">
+                </div>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Submit">
+            </div>
+        </form>
     </div>
 </body>
 </html>
