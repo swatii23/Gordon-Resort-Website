@@ -37,7 +37,7 @@
     margin: auto;
 }
 
-ul {
+.scroll ul {
     list-style: none;
     padding: 0;
     margin: 0;
@@ -45,9 +45,6 @@ ul {
     gap: 20px; 
 }
 
-li {
-    /* Optional: You can style the list items individually if desired */
-}
 
 a {
     text-decoration: none;
@@ -75,69 +72,124 @@ a:hover {
     border: 1px solid blue;
     margin-top: 5%;
 }
- h2{
+.h2{
     text-align: center;
     color: #976107;
     /* font-family: 'Roboto',sans-serif; */
     font-size: 2.3rem;
     font-weight: 100;
-   
+   margin: 2% 2%;
 
 }
-.suite-product .product1 {
-    /* Your styles for product1 */
-    margin-top: 5%;
-    border: 1px solid black;
-    height: 400px;
-    width: 350px;
-  
-}
-
 /* Style for the product container */
 #product-conatiner {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-    align-items: flex-start;
     padding: 20px;
-    overflow-x: auto; /* Enable horizontal scrolling if needed */
 }
 
 /* Style for individual product cards */
-.product-card {
-    width: calc(33.33% - 20px); /* Adjust the width and margins as needed for a 3-card layout */
+
+#product-conatiner{
+    width: 92%;
+    margin: auto;
+}
+
+#product-conatiner > div {
+    width: calc(33% - 20px); /* Adjust the width and margins as needed for a 3-column layout */
     margin: 10px;
     background-color: #fff;
     border: 1px solid #ddd;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-  
+    /* padding: 15px; */
     border-radius: 5px;
     text-align: center;
-    flex: 1; /* Equal-width columns within the container */
-    white-space: nowrap; /* Prevent card wrapping on smaller screens */
+    
 }
 
-.product-card img {
+#product-conatiner img {
     max-width: 100%;
     height: auto;
 }
 
-.product-card h3 {
+#product-conatiner h3 {
     font-size: 1.5em;
     margin: 10px 0;
+
+}
+.size-tag {
+   margin-left: 20%;
+    /* border: 1px solid #db2128;  */
 }
 
-.product-card p {
+#product-conatiner p {
     font-size: 1em;
     margin: 10px 0;
-    text-align: center;
-    /* border: 1px solid black; */
-    text-wrap: wrap;
+    padding: 1%;
+    color: #666; 
 }
 
-.product-card p.price {
+#product-conatiner p.product-price {
     font-weight: bold;
     color: #976107;
 }
 
-/* Add additional CSS rules for specific styling as needed */
+
+.policy {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between; /* To evenly distribute the child divs */
+    width: 90%;
+    /* border: 1px solid red; */
+    margin: auto;
+}
+
+.title > p:first-child {
+ font-family: 'Roboto',sans-serif;
+ color: #666;
+ font-weight: 100;
+ font-size: 0.8rem;
+ margin-top: 3%;
+}
+.title h2 {
+  color: #976107;  
+  font-size: 2.2rem;
+  font-weight: 100;
+  margin-top: 1.5%;
+  margin-bottom: 3%;
+}
+
+.room-furniture {
+    flex: 1; /* To make each child take up 25% of the available width (4 items per row) */
+    max-width: calc(25% - 10px); /* To account for margins and spacing */
+    margin: 10px; /* Add margins to separate child divs */
+}
+
+.room-furniture ul {
+    /* list-style-type: none; */
+    padding: 0;
+}
+
+/* Optional: To style the list items */
+.room-furniture ul li {
+    /* margin: 5px 0; */
+    font-size: 14px;
+    color: #666;
+    font-family: 'Roboto',sans-serif;
+
+}
+
+.bg{
+    /* border: 1px solid blue; */
+    background-color: #fdf9f4;;
+}
+
+.room-furniture h4 {
+ font-family: 'Roboto',sans-serif;
+ color: #3d3a3a;
+ font-weight: 200;
+ font-size: 1.3rem;
+ margin-bottom: 8%;
+
+}
