@@ -6,11 +6,12 @@ body {
     background-color: #f4f4f4;
     margin: 0;
     padding: 0;
+    background-image: url(./image/home.png);
 }
 
 .container {
     max-width: 45%;
-    margin: 0 auto;
+    margin: 5% auto;
     background: #fff;
     padding: 30px;
     border-radius: 5px;
@@ -60,5 +61,5 @@ input[type="submit"]:hover {
 #nameDiv, #addressDiv, #locationDiv, #contact, #date_time, #submitBtns{
     display: flex;
     justify-content: space-around;
-    gap: 10%;
+    /* gap: 10%; */
 }
