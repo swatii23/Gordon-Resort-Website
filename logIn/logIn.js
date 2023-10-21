@@ -24,6 +24,10 @@ document.addEventListener('DOMContentLoaded', function() {
 
                 message.textContent = 'Login Successful!';
 
+                window.location.href = ('/glorious-calendar-2511/Register/register.html');
+
+                return alert('FFFFF');
+
             } else {
 
                 message.textContent = 'Invalid username or password. Please try again.';

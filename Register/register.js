@@ -42,6 +42,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
         }, 2000);
 
+        return alert('Registration successful');
+
     })
 
 })
