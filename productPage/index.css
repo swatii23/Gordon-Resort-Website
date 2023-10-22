@@ -167,11 +167,11 @@ a:hover {
 }
 
 .room-furniture ul {
-    /* list-style-type: none; */
+  
     padding: 0;
 }
 
-/* Optional: To style the list items */
+
 .room-furniture ul li {
     /* margin: 5px 0; */
     font-size: 14px;
