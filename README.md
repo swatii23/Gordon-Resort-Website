@@ -13,11 +13,11 @@ It was during the final week which is depicted as the construct week. We have do
 We formed a great team which attains great and humble minds, who are great team players and enthusiastic people.
 this amazing team includes
 
-- ## Swati Mandal -> [GitHub](https://github.com/swatii23)
+- ## [Swati Mandal](https://github.com/swatii23)
 
-- ## Md Sajid -> [GitHub](https://github.com/Sajid788)
+- ## [Md Sajid](https://github.com/Sajid788)
 
-- ## Sachin Kumar Singh -> [GitHub](https://github.com/sachin2398)
+- ## [Sachin Kumar Singh](https://github.com/sachin2398)
 
 # <span style="color:red"> About Website: </span>
 
