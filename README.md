@@ -55,27 +55,45 @@ This entire journey of making the project was awesome. We have learned lots of t
 
 - ## <span style="color:blue"> Home Page </span>
 
-<img width="377" alt="Home page" src="./IMAGES/HomePage.png">
+<img width="377" alt="Home page" src="./proj_screenshot/homePage.png">
 
- - ## <span style="color:blue"> Login Page</span>
+ - ## <span style="color:blue"> Login/Signup Page</span>
 
- <img width="391" alt="zms footer" src="./IMAGES/L1.png">
-
-
-- ## <span style="color:blue"> Product Pages</span>
-
-<img width="400" alt="zms 1" src="./IMAGES/P1.png">
-<img width="400" alt="zms 1" src="./IMAGES/P2.png">
-<img width="400" alt="zms 1" src="./IMAGES/P3.png">
-
-- ## <span style="color:blue"> Cart Page</span>
-
- <img width="391" alt="zms footer" src="./IMAGES/C1.png">
+ <img width="391" alt="zms footer" src="./proj_screenshot/login.png">
 
 
-- ## <span style="color:blue"> Payment Page</span>
+- ## <span style="color:blue"> Rooms Pages</span>
 
- <img width="391" alt="zms footer" src="./IMAGES/Pay1.png">
+<img width="400" alt="zms 1" src="./proj_screenshot/rooms.png">
+
+- ## <span style="color:blue"> About Page</span>
+
+ <img width="391" alt="zms footer" src="./proj_screenshot/aboutPage.png">
+
+ - ## <span style="color:blue"> Gallery Page</span>
+
+ <img width="391" alt="zms footer" src="./proj_screenshot/gallery.png">
+
+ - ## <span style="color:blue"> Amenities Page</span>
+
+ <img width="391" alt="zms footer" src="./proj_screenshot/amenities.png">
+
+- ## <span style="color:blue"> Booking Page</span>
+
+ <img width="391" alt="zms footer" src="./proj_screenshot/booking.png">
+
+ - ## <span style="color:blue"> Contact Us Page</span>
+
+ <img width="391" alt="zms footer" src="./proj_screenshot/cantactUs.png">
+
+
+- ## <span style="color:blue"> FAQ Page</span>
+
+ <img width="391" alt="zms footer" src="./proj_screenshot/faq.png">
+
+ - ## <span style="color:blue"> Thank You Page</span>
+
+ <img width="391" alt="zms footer" src="./proj_screenshot/thankYou.png">
  
 
 
