@@ -2,7 +2,6 @@
 Welcome to our layout of Hotel Website.
 # [Hotel Website](https://653652c73f8e7f008122786e--elegant-pudding-10faed.netlify.app/)
 
-
 # <span style="color:red"> Welcome Here!</span>
 
 Hello Readers,<br>
@@ -103,6 +102,9 @@ This entire journey of making the project was awesome. We have learned lots of t
  <hr>
 
  <br>
+
+# <span style="color:red">Presentation Video: </span>
+Please refer to the [video](https://drive.google.com/file/d/1lHhHqCuQ6_QtstES7Cxlt7fnuz6O7BZQ/view?usp=sharing) for the presentation of our project.
 
 # <span style="color:red">Our Journey: </span>
 As this is our second project work on this course journey but we were not fimiliar with each other so our first day gone in discussion about how should we start, who did which work  and what are our strength and weaknesses regarding this. On next day finally we decided our role and distributed the respective work.
