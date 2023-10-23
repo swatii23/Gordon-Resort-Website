@@ -84,7 +84,7 @@ This entire journey of making the project was awesome. We have learned lots of t
 
  - ## <span style="color:blue"> Contact Us Page</span>
 
- <img width="391" alt="zms footer" src="./proj_screenshots/cantactUs.png">
+ <img width="391" alt="zms footer" src="./proj_screenshots/contactUs.png">
 
 
 - ## <span style="color:blue"> FAQ Page</span>
