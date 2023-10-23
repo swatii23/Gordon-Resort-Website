@@ -5,7 +5,7 @@ Welcome to our layout of Hotel Website.
 # <span style="color:red"> Welcome Here!</span>
 
 Hello Readers,<br>
-It was during the final week which is depicted as the construct week. We have done this project with an amazing & enthusiastic group of 4 members and built a Hotel Website which deals in providing the users to get to know the hotel & accessing ease in the India <br> This Project is our construct week project in Unit-5 during our course of full stack developer. 
+It was during the final week which is depicted as the construct week. We have done this project with an amazing & enthusiastic group of 3 members and built a Hotel Website which deals in providing the users to get to know the hotel & accessing ease in the India <br> This Project is our construct week project in Unit-5 during our course of full stack developer. 
 <br> I hope you will enjoy the reading…
 
 ## <span style="color:rgb(255, 200, 0)"> Getting to know our Team Members: </span>
