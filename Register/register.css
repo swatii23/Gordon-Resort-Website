@@ -1,0 +1,75 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('https://png.pngtree.com/background/20230923/original/pngtree-cute-boy-playing-in-the-sea-casual-sea-face-photo-picture-image_5190727.jpg');;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+h2 {
+
+    margin-bottom: 45px;
+    text-align: center;
+    color: #976107;
+    font-size: 2.8em;
+
+}
+
+p {
+
+    font-size: 14px;
+    line-height: 1.43em;
+    letter-spacing: .2px;
+    vertical-align: baseline;
+    box-sizing: inherit;
+
+}
+
+#container {
+    width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    display: block;
+    height: auto;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin: 25px 0;
+}
+
+button {
+    width: 50%;
+    padding: 20px;
+    margin: 10px 0 35px 145px;
+    background-color: #ff5900;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #b37a00;
+}
+
+#registration-message {
+    margin: 10px 0;
+    color: red;
+}
+
+a {
+
+    margin: auto;
+    text-align: center;
+    color: #ff5900;
+    margin: 100px 0px 0px 160px;
+
+} 
+
+a:hover {
+
+    color: #333;
+    cursor: pointer;
+
+}
