@@ -55,45 +55,45 @@ This entire journey of making the project was awesome. We have learned lots of t
 
 - ## <span style="color:blue"> Home Page </span>
 
-<img width="377" alt="Home page" src="./proj_screenshot/homePage.png">
+<img width="377" alt="Home page" src="./proj_screenshots/homePage.png">
 
  - ## <span style="color:blue"> Login/Signup Page</span>
 
- <img width="391" alt="zms footer" src="./proj_screenshot/login.png">
+ <img width="391" alt="zms footer" src="./proj_screenshots/login.png">
 
 
 - ## <span style="color:blue"> Rooms Pages</span>
 
-<img width="400" alt="zms 1" src="./proj_screenshot/rooms.png">
+<img width="400" alt="zms 1" src="./proj_screenshots/rooms.png">
 
 - ## <span style="color:blue"> About Page</span>
 
- <img width="391" alt="zms footer" src="./proj_screenshot/aboutPage.png">
+ <img width="391" alt="zms footer" src="./proj_screenshots/aboutPage.png">
 
  - ## <span style="color:blue"> Gallery Page</span>
 
- <img width="391" alt="zms footer" src="./proj_screenshot/gallery.png">
+ <img width="391" alt="zms footer" src="./proj_screenshots/gallery.png">
 
  - ## <span style="color:blue"> Amenities Page</span>
 
- <img width="391" alt="zms footer" src="./proj_screenshot/amenities.png">
+ <img width="391" alt="zms footer" src="./proj_screenshots/amenities.png">
 
 - ## <span style="color:blue"> Booking Page</span>
 
- <img width="391" alt="zms footer" src="./proj_screenshot/booking.png">
+ <img width="391" alt="zms footer" src="./proj_screenshots/booking.png">
 
  - ## <span style="color:blue"> Contact Us Page</span>
 
- <img width="391" alt="zms footer" src="./proj_screenshot/cantactUs.png">
+ <img width="391" alt="zms footer" src="./proj_screenshots/cantactUs.png">
 
 
 - ## <span style="color:blue"> FAQ Page</span>
 
- <img width="391" alt="zms footer" src="./proj_screenshot/faq.png">
+ <img width="391" alt="zms footer" src="./proj_screenshots/faq.png">
 
  - ## <span style="color:blue"> Thank You Page</span>
 
- <img width="391" alt="zms footer" src="./proj_screenshot/thankYou.png">
+ <img width="391" alt="zms footer" src="./proj_screenshots/thankYou.png">
  
 
 
