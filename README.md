@@ -1,4 +1,4 @@
-# glorious-calendar-2511
+# Gordon Resort Website
 Welcome to our layout of Hotel Website.
 # [Hotel Website](https://653652c73f8e7f008122786e--elegant-pudding-10faed.netlify.app/)
 
