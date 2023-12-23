@@ -55,45 +55,55 @@ This entire journey of making the project was awesome. We have learned lots of t
 
 - ## <span style="color:blue"> Home Page </span>
 
-<img width="377" alt="Home page" src="./proj_screenshots/homePage.png">
+<img width="730" alt="Screenshot 2023-12-23 132108" src="https://github.com/swatii23/Gordon-Resort-Website/assets/129252454/ab24fd97-5fc3-47ed-8969-2b0568e36531">
+
 
  - ## <span style="color:blue"> Login/Signup Page</span>
 
- <img width="391" alt="zms footer" src="./proj_screenshots/login.png">
+ <img width="730" alt="Screenshot 2023-12-23 132146" src="https://github.com/swatii23/Gordon-Resort-Website/assets/129252454/211aabd3-064e-4aad-bd51-a058a7489905">
+
 
 
 - ## <span style="color:blue"> Rooms Pages</span>
 
-<img width="400" alt="zms 1" src="./proj_screenshots/rooms.png">
+<img width="728" alt="Screenshot 2023-12-23 132212" src="https://github.com/swatii23/Gordon-Resort-Website/assets/129252454/07934053-64f9-49b3-9786-adb9f1eba928">
+
 
 - ## <span style="color:blue"> About Page</span>
 
- <img width="391" alt="zms footer" src="./proj_screenshots/aboutPage.png">
+<img width="729" alt="Screenshot 2023-12-23 132246" src="https://github.com/swatii23/Gordon-Resort-Website/assets/129252454/ff7fb3e4-f866-40e0-b357-890c34ff299f">
+
 
  - ## <span style="color:blue"> Gallery Page</span>
 
- <img width="391" alt="zms footer" src="./proj_screenshots/gallery.png">
+ <img width="733" alt="Screenshot 2023-12-23 132308" src="https://github.com/swatii23/Gordon-Resort-Website/assets/129252454/ef7fd656-ce72-41f4-abc7-a8ddea8c8809">
+
 
  - ## <span style="color:blue"> Amenities Page</span>
 
- <img width="391" alt="zms footer" src="./proj_screenshots/amenities.png">
+<img width="729" alt="Screenshot 2023-12-23 132330" src="https://github.com/swatii23/Gordon-Resort-Website/assets/129252454/44bb9d2a-2f5d-4baa-9956-405ae9f576f1">
+
 
 - ## <span style="color:blue"> Booking Page</span>
 
- <img width="391" alt="zms footer" src="./proj_screenshots/booking.png">
+<img width="733" alt="Screenshot 2023-12-23 132408" src="https://github.com/swatii23/Gordon-Resort-Website/assets/129252454/2e85751a-c88f-40e3-850b-a87287bf4d0e">
+
 
  - ## <span style="color:blue"> Contact Us Page</span>
 
- <img width="391" alt="zms footer" src="./proj_screenshots/contactUs.png">
+<img width="728" alt="Screenshot 2023-12-23 132434" src="https://github.com/swatii23/Gordon-Resort-Website/assets/129252454/cb77feac-d54f-47e9-bc6c-6332ae08f19b">
+
 
 
 - ## <span style="color:blue"> FAQ Page</span>
 
- <img width="391" alt="zms footer" src="./proj_screenshots/faq.png">
+<img width="731" alt="Screenshot 2023-12-23 132509" src="https://github.com/swatii23/Gordon-Resort-Website/assets/129252454/a6cb71bb-7ac5-463c-9331-1771e84e3070">
+
 
  - ## <span style="color:blue"> Thank You Page</span>
 
- <img width="391" alt="zms footer" src="./proj_screenshots/thankYou.png">
+<img width="729" alt="Screenshot 2023-12-23 132533" src="https://github.com/swatii23/Gordon-Resort-Website/assets/129252454/5c59874b-d994-4c01-a3f7-e60d7ca94ccc">
+
  
 
 
